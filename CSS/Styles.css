@@ -8,7 +8,7 @@ hr{
     border-color: grey;
     border-width: 6px;
     height: 0px;
-    width: 50%;
+    width: 20%;
 }
 
 h1{
@@ -28,4 +28,20 @@ th{
 }
 td{
     color:#BFDB38
+}
+
+li{
+    color:#BFDB38
+}
+
+label{
+    color:#8ebf42
+}
+
+p{
+    color:#8ebf42
+}
+
+Title{
+    color:#8ebf42
 }
